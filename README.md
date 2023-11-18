@@ -27,11 +27,11 @@ Usage:
 Available Commands:
   add         绕过反病毒软件添加指定用户
 
-	Flags:
-	    --t uint8        指定绕过方式
-	  	-u, --user string    指定用户名
-	  	-p, --pwd string     指定密码
-  		-g, --group string   指定组
+Flags:
+  --t uint8        指定绕过方式
+  -u, --user string    指定用户名
+  -p, --pwd string     指定密码
+  -g, --group string   指定组
 ```
 
 
